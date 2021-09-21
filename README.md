@@ -11,6 +11,10 @@
 * React
 * GIT
 
+Контакты для связи
+e-mail: blackfur4a@yandex.ru
+Телефон: +7 981 172 87 52
+
 <!--
 **StasRnD/StasRnD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
