@@ -5,7 +5,7 @@
 * Нравится находиться в компании единомылшеников. Люблю работать в команде.
 
 ## Мой стек технологий:
-* HTML5 (Chakra UI, PUG, читый HTML)
+* HTML (Chakra UI, PUG, HTML5)
 * CSS3 (БЭМ, CSS in JS, tilewind)
 * SCSS
 * JS
