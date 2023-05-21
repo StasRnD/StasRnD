@@ -16,7 +16,7 @@
 * Next.js
 
 Контакты для связи
-e-mail: blackfur4a@yandex.ru
+e-mail: beresnevrnd@gmail.com
 Телефон: +7 981 172 87 52
 
 <!--
